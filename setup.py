@@ -8,5 +8,14 @@ setup(name='mocha',
       author_email='laurent@mooke.io',
       license='MIT',
       packages=['mocha'],
+      install_requires=[
+            'pandas',
+            'numpy',
+            'matplotlib',
+            'scikit-learn',
+            'seaborn',
+            'tensorflow-gpu',
+            'pymongo'
+      ],
       zip_safe=False)
 

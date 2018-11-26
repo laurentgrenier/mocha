@@ -4,5 +4,4 @@ matplotlib
 scikit-learn
 seaborn
 tensorflow-gpu
-flask
 pymongo
